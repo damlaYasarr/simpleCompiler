@@ -1,0 +1,11 @@
+C:\Users\damla\source\repos\koffixlang\koffixlang\bin\Debug\netcoreapp2.1\koffixlang.deps.json
+C:\Users\damla\source\repos\koffixlang\koffixlang\bin\Debug\netcoreapp2.1\koffixlang.runtimeconfig.json
+C:\Users\damla\source\repos\koffixlang\koffixlang\bin\Debug\netcoreapp2.1\koffixlang.runtimeconfig.dev.json
+C:\Users\damla\source\repos\koffixlang\koffixlang\bin\Debug\netcoreapp2.1\koffixlang.dll
+C:\Users\damla\source\repos\koffixlang\koffixlang\bin\Debug\netcoreapp2.1\koffixlang.pdb
+C:\Users\damla\source\repos\koffixlang\koffixlang\obj\Debug\netcoreapp2.1\koffixlang.csprojAssemblyReference.cache
+C:\Users\damla\source\repos\koffixlang\koffixlang\obj\Debug\netcoreapp2.1\koffixlang.csproj.CoreCompileInputs.cache
+C:\Users\damla\source\repos\koffixlang\koffixlang\obj\Debug\netcoreapp2.1\koffixlang.AssemblyInfoInputs.cache
+C:\Users\damla\source\repos\koffixlang\koffixlang\obj\Debug\netcoreapp2.1\koffixlang.AssemblyInfo.cs
+C:\Users\damla\source\repos\koffixlang\koffixlang\obj\Debug\netcoreapp2.1\koffixlang.dll
+C:\Users\damla\source\repos\koffixlang\koffixlang\obj\Debug\netcoreapp2.1\koffixlang.pdb
